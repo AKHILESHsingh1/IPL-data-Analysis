@@ -76,6 +76,8 @@ To explore the dashboard:
 - Add predictive modeling for future season outcomes
 - Integrate live IPL API for real-time updates
 - Build a web-based version using Power BI Embedded
-
+  
+## Snapshot of the Dashboard 
+https://github.com/AKHILESHsingh1/IPL-data-Analysis/blob/main/IPL%20Data%20Analysis%20Snapshot.png
 
 > ⚠️ This project is for educational and portfolio purposes only. Data accuracy depends on the source files.
