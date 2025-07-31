@@ -1,3 +1,5 @@
+![Sample Image](https://github.com/AKHILESHsingh1/IPL-data-Analysis/blob/main/IPL%20Data%20Analysis%20Snapshot.png)
+
 # 🏏 IPL Analysis Dashboard (2008–2025) 📊
 
 This project presents a comprehensive Power BI dashboard that explores 18 seasons of the Indian Premier League (IPL), from 2008 to 2025. It offers rich insights into team performances, player statistics, match trends, and season highlights using interactive visuals and DAX-driven metrics.
@@ -77,7 +79,3 @@ To explore the dashboard:
 - Integrate live IPL API for real-time updates
 - Build a web-based version using Power BI Embedded
   
-## Snapshot of the Dashboard 
-![Sample Image](https://github.com/AKHILESHsingh1/IPL-data-Analysis/blob/main/IPL%20Data%20Analysis%20Snapshot.png)
-
-> ⚠️ This project is for educational and portfolio purposes only. Data accuracy depends on the source files.
