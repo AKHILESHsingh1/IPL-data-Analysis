@@ -78,6 +78,6 @@ To explore the dashboard:
 - Build a web-based version using Power BI Embedded
   
 ## Snapshot of the Dashboard 
-https://github.com/AKHILESHsingh1/IPL-data-Analysis/blob/main/IPL%20Data%20Analysis%20Snapshot.png
+![Sample Image](https://github.com/AKHILESHsingh1/IPL-data-Analysis/blob/main/IPL%20Data%20Analysis%20Snapshot.png)
 
 > ⚠️ This project is for educational and portfolio purposes only. Data accuracy depends on the source files.
